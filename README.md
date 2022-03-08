@@ -11,7 +11,11 @@ Scan on **Paper** HTB macine
 
 
 ## Install
-After cloning the repo, do
+Clone the repo
+```sh
+git clone https://github.com/the-root-user/nmap-auto.git
+```
+then, execute the command
 ```sh
 sudo cp nmap-auto.sh /bin/nmapauto
 ```
