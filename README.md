@@ -19,4 +19,6 @@ then, execute the command
 ```sh
 sudo cp nmap-auto.sh /bin/nmapauto
 ```
-or tweak a bit and add the one liner to your `.bashrc`/`.zshrc` as a function
+or tweak a bit and add the one liner to your `.bashrc`/`.zshrc` as a function.
+### Usage
+`sudo nmapauto <target>`
